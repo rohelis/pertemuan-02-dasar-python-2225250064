@@ -1,0 +1,9 @@
+# Mengabaikan file cache yang dibuat otomatis oleh Python
+__pycache__/
+*.py[cod]
+
+# Mengabaikan folder pengaturan lokal dari VS Code
+.vscode/
+
+# Mengabaikan file sistem bawaan (jika Anda menggunakan macOS)
+.DS_Store
